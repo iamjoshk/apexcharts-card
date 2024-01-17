@@ -40,6 +40,7 @@ export const stylesApex: CSSResultGroup = css`
     top: 0px;
     left: 0px;
     right: 0px;
+    z-index: 1;
   }
 
   #header__title {
